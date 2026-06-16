@@ -20,7 +20,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.kemonomimi.moe
   # baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/OtakuEmily/uptime/refs/heads/master/assets/upptime-icon.svg
   name: Kemonomimi.moe
   introTitle: "Kemonomimi.moe Uptime"
   introMessage: Our Github-powered uptime page!
