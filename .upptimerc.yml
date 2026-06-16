@@ -1,8 +1,8 @@
-# Change these first
-owner: otakuemily # Your GitHub organization or username, where this repository lives
-repo: uptime # The name of this repository
+owner: otakuemily 
+repo: uptime
 
 sites:
+  # Kemonomimi services
   - name: Kemonoforge
     url: https://forge.kemonomimi.moe
 
@@ -20,10 +20,14 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/OtakuEmily/uptime/refs/heads/master/assets/upptime-icon.svg
   name: Kemonomimi.moe
   introTitle: "Kemonomimi.moe Uptime"
-  introMessage: Our Github-powered uptime page!
+  introMessage: "Kemonomimi.moe's uptime dashboard, view all our services' status and uptime! For our third-party dependencies check the navbar for their status pages!~ <3"
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Cloudflare
+      href: https://new.cloudflarestatus.com
+    - title: Backblaze
+      href: https://status.backblaze.com
+    - title: Google Gmail
+      href: https://www.google.com/appsstatus/dashboard/summary
   theme: dark
