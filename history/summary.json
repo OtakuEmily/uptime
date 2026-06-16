@@ -10,11 +10,71 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1029,
-    "timeDay": 1029,
-    "timeWeek": 1029,
-    "timeMonth": 1029,
-    "timeYear": 1029,
+    "time": 925,
+    "timeDay": 925,
+    "timeWeek": 925,
+    "timeMonth": 925,
+    "timeYear": 925,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Kemonotrix",
+    "url": "https://matrix.kemonomimi.moe",
+    "icon": "https://icons.duckduckgo.com/ip3/matrix.kemonomimi.moe.ico",
+    "slug": "kemonotrix",
+    "status": "down",
+    "uptime": "31.25%",
+    "uptimeDay": "31.25%",
+    "uptimeWeek": "31.25%",
+    "uptimeMonth": "31.25%",
+    "uptimeYear": "31.25%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-06-16": 1
+    }
+  },
+  {
+    "name": "Kemonosocial",
+    "url": "https://social.kemonomimi.moe",
+    "icon": "https://icons.duckduckgo.com/ip3/social.kemonomimi.moe.ico",
+    "slug": "kemonosocial",
+    "status": "down",
+    "uptime": "43.45%",
+    "uptimeDay": "43.45%",
+    "uptimeWeek": "43.45%",
+    "uptimeMonth": "43.45%",
+    "uptimeYear": "43.45%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-06-16": 0
+    }
+  },
+  {
+    "name": "Kemonolink",
+    "url": "https://link.kemonomimi.moe",
+    "icon": "https://icons.duckduckgo.com/ip3/link.kemonomimi.moe.ico",
+    "slug": "kemonolink",
+    "status": "down",
+    "uptime": "84.13%",
+    "uptimeDay": "84.13%",
+    "uptimeWeek": "84.13%",
+    "uptimeMonth": "84.13%",
+    "uptimeYear": "84.13%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-06-16": 0
+    }
   }
 ]
