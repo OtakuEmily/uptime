@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/forge.kemonomimi.moe.ico",
     "slug": "kemonoforge",
     "status": "up",
-    "uptime": "50.43%",
-    "uptimeDay": "50.43%",
-    "uptimeWeek": "50.43%",
-    "uptimeMonth": "50.43%",
-    "uptimeYear": "50.43%",
-    "time": 708,
-    "timeDay": 708,
-    "timeWeek": 708,
-    "timeMonth": 708,
-    "timeYear": 708,
+    "uptime": "51.00%",
+    "uptimeDay": "51.00%",
+    "uptimeWeek": "51.00%",
+    "uptimeMonth": "51.00%",
+    "uptimeYear": "51.00%",
+    "time": 742,
+    "timeDay": 742,
+    "timeWeek": 742,
+    "timeMonth": 742,
+    "timeYear": 742,
     "dailyMinutesDown": {
       "2026-06-17": 236,
       "2026-06-16": 62
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-17": 251,
+      "2026-06-17": 258,
       "2026-06-16": 345
     }
   },
@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-17": 251,
+      "2026-06-17": 258,
       "2026-06-16": 345
     }
   },
@@ -79,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-17": 251,
+      "2026-06-17": 258,
       "2026-06-16": 344
     }
   }
