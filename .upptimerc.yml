@@ -22,12 +22,15 @@ status-website:
   introTitle: "Kemonomimi.moe Uptime"
   introMessage: "Kemonomimi.moe's uptime dashboard, view all our services' status and uptime! For our third-party dependencies check the navbar for their status pages!~ <3"
   navbar:
-    - title: Status
+    - title: Kemonomimi.moe
       href: /
     - title: Cloudflare
       href: https://new.cloudflarestatus.com
     - title: Backblaze
       href: https://status.backblaze.com
-    - title: Google Gmail
+    - title: Google Workspaces
       href: https://www.google.com/appsstatus/dashboard/summary
-  theme: dark
+    themeUrl: https://raw.githubusercontent.com/OtakuEmily/uptime/refs/heads/master/assets/custom.css
+
+workflowSchedule:
+  uptime: "*/10 * * * *"
