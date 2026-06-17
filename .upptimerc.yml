@@ -32,5 +32,8 @@ status-website:
     - title: Google Workspaces
       href: https://www.google.com/appsstatus/dashboard/summary
 
+i18n:
+  footer: Powered by [Upptime](https://upptime.js.org) <3
+
 workflowSchedule:
   uptime: "*/10 * * * *"
