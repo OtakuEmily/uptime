@@ -5,20 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/forge.kemonomimi.moe.ico",
     "slug": "kemonoforge",
     "status": "down",
-    "uptime": "97.73%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "97.73%",
-    "uptimeYear": "97.73%",
-    "time": 736,
-    "timeDay": 474,
-    "timeWeek": 680,
-    "timeMonth": 736,
-    "timeYear": 736,
+    "uptime": "95.30%",
+    "uptimeDay": "76.54%",
+    "uptimeWeek": "96.65%",
+    "uptimeMonth": "95.30%",
+    "uptimeYear": "95.30%",
+    "time": 704,
+    "timeDay": 52,
+    "timeWeek": 615,
+    "timeMonth": 704,
+    "timeYear": 704,
     "dailyMinutesDown": {
       "2026-06-17": 236,
       "2026-06-16": 62,
-      "2026-06-25": 1
+      "2026-06-26": 218,
+      "2026-06-25": 120
     }
   },
   {
@@ -38,7 +39,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-25": 1321,
+      "2026-06-26": 218,
+      "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
@@ -67,7 +69,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-25": 1321,
+      "2026-06-26": 218,
+      "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
@@ -96,7 +99,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-25": 1321,
+      "2026-06-26": 218,
+      "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
