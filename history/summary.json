@@ -4,22 +4,23 @@
     "url": "https://forge.kemonomimi.moe",
     "icon": "https://icons.duckduckgo.com/ip3/forge.kemonomimi.moe.ico",
     "slug": "kemonoforge",
-    "status": "up",
-    "uptime": "96.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.01%",
-    "uptimeYear": "96.01%",
-    "time": 726,
-    "timeDay": 1257,
-    "timeWeek": 830,
-    "timeMonth": 726,
-    "timeYear": 726,
+    "status": "down",
+    "uptime": "96.14%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "96.14%",
+    "uptimeYear": "96.14%",
+    "time": 708,
+    "timeDay": 647,
+    "timeWeek": 731,
+    "timeMonth": 708,
+    "timeYear": 708,
     "dailyMinutesDown": {
       "2026-06-17": 236,
       "2026-06-16": 62,
       "2026-06-26": 924,
-      "2026-06-25": 120
+      "2026-06-25": 120,
+      "2026-07-10": 1
     }
   },
   {
@@ -39,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-10": 178,
+      "2026-07-10": 1279,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
@@ -83,7 +84,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-10": 178,
+      "2026-07-10": 1279,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
@@ -127,7 +128,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-10": 178,
+      "2026-07-10": 1279,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
